@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rnqx8EJ5eLHL31+ZHPHh0thRyra7kJDadg9By6b1a+FzosApclY8S5/iy2eNDyXuN+cXQwiFa6tno1K07ePutg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Стёпа\\Desktop\\Line\\Line.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Стёпа\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Стёпа\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

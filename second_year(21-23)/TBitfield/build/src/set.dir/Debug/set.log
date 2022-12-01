@@ -1,0 +1,6 @@
+﻿  tbitfield.cpp
+C:\Users\Стёпа\Desktop\lab\src\tbitfield.cpp(199,32): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  tset.cpp
+  Создание кода...
+C:\Users\Стёпа\Desktop\lab\src\tbitfield.cpp(97): warning C4715: TBitField::GetBit: значение возвращается не при всех путях выполнения
+  set.vcxproj -> C:\Users\Стёпа\Desktop\lab\build\lib\Debug\set.lib

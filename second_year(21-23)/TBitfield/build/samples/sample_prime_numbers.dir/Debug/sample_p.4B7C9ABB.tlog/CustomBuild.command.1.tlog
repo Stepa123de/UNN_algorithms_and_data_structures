@@ -1,0 +1,10 @@
+^C:\USERS\СТЁПА\DESKTOP\LAB\SAMPLES\CMAKELISTS.TXT
+setlocal
+D:\CMake\bin\cmake.exe -SC:/Users/Стёпа/Desktop/lab -BC:/Users/Стёпа/Desktop/lab/build --check-stamp-file C:/Users/Стёпа/Desktop/lab/build/samples/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

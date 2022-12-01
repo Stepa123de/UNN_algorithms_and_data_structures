@@ -1,0 +1,10 @@
+^C:\USERS\СТЁПА\DESKTOP\TESTMATRIX\BUILD\CMAKEFILES\3974A122F58BAEA08A9A8A538DEDE66F\GENERATE.STAMP.RULE
+setlocal
+D:\CMake\bin\cmake.exe -SC:/Users/Стёпа/Desktop/testMatrix -BC:/Users/Стёпа/Desktop/testMatrix/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Стёпа/Desktop/testMatrix/build/mp2.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
