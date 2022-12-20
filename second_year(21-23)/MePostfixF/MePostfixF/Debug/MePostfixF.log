@@ -1,0 +1,62 @@
+﻿  PostfixExpression.cpp
+C:\Users\Стёпа\source\repos\MePostfixF\MePostfixF\PostfixExpression.h(78,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Стёпа\source\repos\MePostfixF\MePostfixF\PostfixExpression.h(127,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Стёпа\source\repos\MePostfixF\MePostfixF\PostfixExpression.h(130,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Стёпа\source\repos\MePostfixF\MePostfixF\PostfixExpression.h(139,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Стёпа\source\repos\MePostfixF\MePostfixF\Table.h(52,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Стёпа\source\repos\MePostfixF\MePostfixF\Table.h(51): message : во время компиляции функции-члена класс шаблон "bool Table<std::string,int>::isIn(const T1 &) const"
+          with
+          [
+              T1=std::string
+          ]
+C:\Users\Стёпа\source\repos\MePostfixF\MePostfixF\PostfixExpression.h(82): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Table<std::string,int>::isIn(const T1 &) const"
+          with
+          [
+              T1=std::string
+          ]
+C:\Users\Стёпа\source\repos\MePostfixF\MePostfixF\PostfixExpression.h(18): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Table<std::string,int>"
+C:\Users\Стёпа\source\repos\MePostfixF\MePostfixF\Table.h(41,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Стёпа\source\repos\MePostfixF\MePostfixF\Table.h(40): message : во время компиляции функции-члена класс шаблон "T2 &Table<std::string,T2>::operator [](const T1 &) const"
+          with
+          [
+              T2=int,
+              T1=std::string
+          ]
+C:\Users\Стёпа\source\repos\MePostfixF\MePostfixF\PostfixExpression.h(105): message : выполняется компиляция ссылки на экземпляр шаблон функции "T2 &Table<std::string,T2>::operator [](const T1 &) const"
+          with
+          [
+              T2=int,
+              T1=std::string
+          ]
+  main.cpp
+C:\Users\Стёпа\source\repos\MePostfixF\MePostfixF\PostfixExpression.h(78,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Стёпа\source\repos\MePostfixF\MePostfixF\PostfixExpression.h(127,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Стёпа\source\repos\MePostfixF\MePostfixF\PostfixExpression.h(130,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Стёпа\source\repos\MePostfixF\MePostfixF\PostfixExpression.h(139,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Стёпа\source\repos\MePostfixF\MePostfixF\Table.h(52,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Стёпа\source\repos\MePostfixF\MePostfixF\Table.h(51): message : во время компиляции функции-члена класс шаблон "bool Table<std::string,int>::isIn(const T1 &) const"
+          with
+          [
+              T1=std::string
+          ]
+C:\Users\Стёпа\source\repos\MePostfixF\MePostfixF\PostfixExpression.h(82): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Table<std::string,int>::isIn(const T1 &) const"
+          with
+          [
+              T1=std::string
+          ]
+C:\Users\Стёпа\source\repos\MePostfixF\MePostfixF\PostfixExpression.h(18): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Table<std::string,int>"
+C:\Users\Стёпа\source\repos\MePostfixF\MePostfixF\Table.h(41,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Стёпа\source\repos\MePostfixF\MePostfixF\Table.h(40): message : во время компиляции функции-члена класс шаблон "T2 &Table<std::string,T2>::operator [](const T1 &) const"
+          with
+          [
+              T2=int,
+              T1=std::string
+          ]
+C:\Users\Стёпа\source\repos\MePostfixF\MePostfixF\PostfixExpression.h(105): message : выполняется компиляция ссылки на экземпляр шаблон функции "T2 &Table<std::string,T2>::operator [](const T1 &) const"
+          with
+          [
+              T2=int,
+              T1=std::string
+          ]
+  Создание кода...
+  MePostfixF.vcxproj -> C:\Users\Стёпа\source\repos\MePostfixF\Debug\MePostfixF.exe
